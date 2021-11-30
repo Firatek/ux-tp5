@@ -1,5 +1,7 @@
 # ux-tp5
 
+De la rochebrochard Amaury
+
 ## Project setup
 ```
 npm install
